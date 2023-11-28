@@ -1,1 +1,144 @@
-TOnny ahmed!!
+TOnny ahmed!!<!DOCTYPE HTML>
+
+<html>
+
+       <head>
+              <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+         <link rel="stylesheet" href="Style.css">
+         
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js"></script>
+         <script src="script.js" defer> </script>
+               <title> First Programming</title>
+        </head>
+<body style ="background-color:black">
+  <div style ="background-image : url(https://cdn.glitch.com/9e5e3cbb-961a-485d-9bf3-b6ef8317704b%2Foriginal-hot-fajita-served-on-260nw-121540195.jpg?v=1606779812514)"> 
+
+            
+          <center>   <u> <h1> <b> </b> Kadhai </h1> <br/>  </u> </center>
+          <center> <b style="font-size:33px;color:red;background-color:Black;"> <u> <caption> Authentic Indian Cuisine </caption>  </u> </b> </center>
+<br/>
+    <hr/>
+  <center> <b style="font-size:30px;background-color:black;color:red;"> <caption> Welcome To Our page </caption> </b>  </center>
+    <p align="center"> 
+      <a href="https://www.kadhai.com/"> <img src="https://cdn.glitch.com/9e5e3cbb-961a-485d-9bf3-b6ef8317704b%2Flogo.png?v=1601066429031" height="70" width="90"> 
+      </a>
+      </p>
+      
+  
+  
+      <center>
+      
+
+  
+     <button style="background-color:black"  class="flex-container" onclick="openPage">
+       <a style="color:red" href="index.html"> <h3>
+         
+          Home </h3> </a> 
+       </button> 
+       <button style="background-color:black"  class="flex-container" onclick="openPage">
+         <a style="color:red" href="Menu.html"> <h3>
+           
+        Menu </h3> </a> </button>
+<button style="background-color:black" class="flex-container" onclick="openPage">
+  <a style="color:red" href="Contact.html"> <h3>
+    
+    Contact  </h3> </a> </button>
+
+       
+  </center>
+    
+    </div>
+    
+    <div style="background-image : url(https://cdn.glitch.com/9e5e3cbb-961a-485d-9bf3-b6ef8317704b%2Ffood-922783734-612x612.jpg?v=1606780644934)">
+      
+        <p>
+          
+        
+    
+
+  
+  <h2> <b> <center>  <marquee id="moving" >
+    We serve "lunch buffet daily!!!!!  </marquee> </center> </b> </h2>
+ 
+   
+      
+<img src="https://cdn.glitch.com/9e5e3cbb-961a-485d-9bf3-b6ef8317704b%2Fkadhai.jpg?v=1606790523726" height="297px" width="210px" align="left"> 
+      <br/>
+       <br/>
+      <br/>
+      <br/>
+ <p style="background-color:white;font-size:20px; align:center;"> <b> Welcome to Kadhai Indian Kitchen, the first fine dining Indian restaurant of Bethesda, MD. We invite you to enjoy our food and drinks in a comfortable, relaxed environment with your family and friends. We provide the largest selection of quality and mouthwatering food. With our rewarding dining experience, you will definately be excited to come back again and again.
+  Hand Prepared By an Indian Chef   </b> </p>
+
+<p style="background-color:white;font-size:20px;align:center;"> <b>We are extremely proud of highly talented chef who is absolutely committed to offer the highest quality food for you. He prepares every dish with hand prepared spices and fresh ingredients in all of our recipes. You can also select levels of spices to suite your taste. Our highly motivated staff is committed to provide best service.
+  </b> </p>
+      
+        
+           
+      
+   
+ <h2>  <marquee id="video">   
+    Gallery Videos  </marquee> </h2> 
+      <iframe src="https://www.youtube.com/embed/Xub8As6vhxY" width="500px" height="300px"></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/mvSNjWDQCAE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GDS1OVF46UY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/V6Vd1E9OL-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
+      
+      <hr/>  
+  </p>
+  </div>
+  
+<center><img class="index-tag" src="https://cdn.glitch.com/9e5e3cbb-961a-485d-9bf3-b6ef8317704b%2Flogo.png?v=1601066429031" height="150px" width="150px"> </center> 
+  
+<hr/>
+        
+
+  <div style="background-color:black;" class="div1">
+    
+
+  <p style="color:white; font-size:20px; text-align:center;"> <b> Working Hours </b> 
+  
+  <ul>
+    
+    <li style="color:white;font-size:14px;text-align:center;"> <i>  MONDAY-FRIDAY (09:00AM - 09:00 PM) ♨</i> </li>
+        
+    <li style="color:white;font-size:14px;text-align:center;"> <i>  Saturday (10:00AM - 11:00 PM) ♨</i>  </li>
+      
+    <li style="color:white;font-size:14px;text-align:center;"> <i>Sunday (10:00AM - 10:00PM ) ♨ </i> </li>
+      
+                 
+    </ul>
+    </p>
+    <p style="font-size:18px;color:white;text-align:center;"> For Reservations: 
+    <br/>
+  (917-896-4590) 
+    <br/>
+  (917-966-0124) 
+    <br/> 
+            </p>
+          <p style="color:white;text-align:center;">
+            Follow Us on Facebook: 
+            <a href="https://www.facebook.com/pages/Kadhai-Indian-Restaurant/302428693253994?rf=524880097575976" style="background-color:#3B5998; color:white"> Facebook  </a>
+        
+          </p>
+    </div>
+  
+  <div id="div2" style="background-color:white;height:100px;width:100%"> 
+  <br/>
+  <center> <p style="color:black;font-size:15px;"> &copy;Copright KADHAI Indian Cuisine 
+    
+  </p> 
+  </center>
+  <center> <img src="https://cdn.glitch.com/9e5e3cbb-961a-485d-9bf3-b6ef8317704b%2Fkadhai.png?v=1601066417578" width="70"
+   height="30" align="center" alt="Image not found"/> </center>
+
+</div>
+  
+    </body>
+
+</html>
+
+    
